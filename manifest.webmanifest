@@ -1,0 +1,12 @@
+{
+  "name": "Stockfish 19 Mobile",
+  "short_name": "SF19",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1512",
+  "theme_color": "#0e1512",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

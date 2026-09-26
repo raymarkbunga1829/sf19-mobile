@@ -1,0 +1,7 @@
+This app uses Stockfish 19 via stockfish.js.
+
+Stockfish is free software under the GNU General Public License v3.
+See https://github.com/official-stockfish/Stockfish/blob/master/Copying.txt
+and https://github.com/nmrugg/stockfish.js
+
+chess.js is BSD-2-Clause: https://github.com/jhlyk/chess.js
